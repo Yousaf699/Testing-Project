@@ -60,3 +60,33 @@ th {
 tr:nth-child(even) {
     background-color: #f9f9f9;
 }
+
+/* About Section */
+.about-section {
+    background: white;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.learn-btn {
+    padding: 10px 15px;
+    background: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.learn-btn:hover {
+    background: darkblue;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 15px;
+    background: #333;
+    color: white;
+}
